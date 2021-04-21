@@ -30,7 +30,7 @@ Tone/version.ts
 Tone/index.js
 test/test.js
 
-docs
+#docs
 .vscode
 tone.d.ts
 examples/scratch.ts
